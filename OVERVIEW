@@ -1,0 +1,16 @@
+PROBLEM STATEMENT:
+
+The project aims to develop a maze-solving system where the player navigates from the starting point ('S') to the target ('T') within a grid while facing the challenge of limited chances. 
+The system will allow the player to make moves in up, down, left, and right directions along walkable tiles ('.') while avoiding walls ('#'). 
+The player will have three chances to reach the target, failing which the game ends.
+
+Develop an algorithm to efficiently find the minimum number of moves required to solve mazes.
+Optimize the algorithm for performance, considering large maze sizes.
+
+Implement a mechanism to track and manage the player's chances during gameplay.
+Allow the player to make only three attempts to reach the target position 'T'.
+
+USED:
+Programming Language: Python 
+Libraries/Frameworks: Pygame (for UI)
+Development Tools: IDEs (Visual Studio Code)
